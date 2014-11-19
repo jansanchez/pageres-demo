@@ -4,11 +4,11 @@ pageres-demo
 Demo del uso de pageres con Gulp.js
 
 
-´´´js
+```js
 npm install
-´´´
+```
 
 
-´´´js
+```js
 gulp shoot
-´´´
+```
