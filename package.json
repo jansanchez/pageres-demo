@@ -1,0 +1,15 @@
+{
+  "name": "pageres-demo",
+  "version": "0.1.0",
+  "description": "Pageres Demo",
+  "main": "gulpfile.js",
+  "scripts": {
+    "shoot": "gulp shoot"
+  },
+  "author": "jansanchez",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.8.10",
+    "pageres": "~1.0.1"
+  }
+}
